@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1 | 2048",
+      "live": "https://brendanfburke.github.io/brendan_burke_project_1/",
+      "git": "https://github.com/brendanfburke/brendan_burke_project_1",
+      "image": "https://i.imgur.com/o89iPOb.png"
+    },
+    {
+      "name": "Project 2 | Twitter Clone",
+      "live": "https://aqueous-sands-61175.herokuapp.com/login",
+      "git": "https://github.com/brendanfburke/Tweeter",
+      "image": "https://i.imgur.com/ozyS08d.png"
+    }
+  ]
